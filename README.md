@@ -5,30 +5,30 @@
 
 <br>👋 Hi, I’m Gabriel (@GBelloS)! 🙂<br><br>
 
-I love to **study** and **work** on projects.
+I love to **study**, **work** on projects and **help** people.
 
-I'm working hard each day to make everything **quicker**, still with the **best quality** possible!
+I work hard each day to make everything in a **short time**, still with the **best quality** possible!
 
 Feel free to make any *requests*, *suggestions* or *feedbacks*.
 
-📚                         🧮                         💻                         📱                         🖥
+📚                      🧮                      💻                      📱                      🖥
 
 ---
 
 ## Interests
 
-- 🧮 Logic problem solving
 - 🛠 Web and software development
 - 🕹 Game designing and modding
+- 🧮 Logic problem solving
 - 🌆 Graphic design creations
 
 ## Skills and Learnings:
 
-- ⚗ Math and Physics
-- 🔢 C, Python, Java EE and C++ Languages
 - 📰 HTML, CSS and Java Scrypt for Web and Gaming development
-- 💵 Excel Writing and Scrypting
+- 🔢 C, Python, Java EE and C++ Languages
+- ⚗ Math and Physics
 - 🖼 Adobe Photoshop, Illustrator, Animate, Premiere and After Effects
+- 💵 Excel Writing and Scrypting
 
 ---
 
