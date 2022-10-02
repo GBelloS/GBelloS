@@ -36,7 +36,7 @@ If you want any kind of help, it'd be a honor to assit the way I can.<br>Please 
 
 - 📨 E-mail: gabriel.b.schwarzbold@gmail.com<!-- - 🎎 Linkedin: [@GBelloS](https://www.linkedin.com/in/gbellos/en) -->
 - 👓 Frontend Mentor: [@GBelloS](https://www.frontendmentor.io/profile/GBelloS)<!-- - 🐤 Twitter: [@gbeiios](https://www.twitter.com/GBeIIoS) -->
-- ⌨️ Discord: GBelloS#2061<!-- - 👍 Facebook: [schwarzbold](https://www.facebook.com/schwarzbold/) -->
+- ⌨️ Discord: [GBelloS#2061](https://discordapp.com/users/200020674356576257)<!-- - 👍 Facebook: [schwarzbold](https://www.facebook.com/schwarzbold/) -->
 
 
 ![Coding city picture](images/coding.jpg)
