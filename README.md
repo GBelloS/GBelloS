@@ -35,7 +35,7 @@ Feel free to make any *requests*, *suggestions* or *feedbacks*.
 If you want any kind of help, it'd be a honor to assit the way I can.<br>Please don't hesitate to contact me!
 
 - 📨 E-mail: gabriel.b.schwarzbold@gmail.com
-- 🎎 Linkedin: [@GBelloS](linkedin.com/in/gbellos/en)
+- 🎎 Linkedin: [@GBelloS](https://www.linkedin.com/in/gbellos/en)
 - 🐤 Twitter: [@gbeiios](https://www.twitter.com/GBeIIoS)
 - ⌨️ Discord: GBelloS#2061
 
