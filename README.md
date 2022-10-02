@@ -35,9 +35,12 @@ Feel free to make any *requests*, *suggestions* or *feedbacks*.
 If you want any kind of help, it'd be a honor to assit the way I can.<br>Please don't hesitate to contact me!
 
 - 📨 E-mail: gabriel.b.schwarzbold@gmail.com
-- 🎎 Linkedin: [@GBelloS](https://www.linkedin.com/in/gbellos/en)
-- 🐤 Twitter: [@gbeiios](https://www.twitter.com/GBeIIoS)
+<!-- - 🎎 Linkedin: [@GBelloS](https://www.linkedin.com/in/gbellos/en) -->
+- 👓 Frontend Mentor: [@GBelloS](https://www.frontendmentor.io/profile/GBelloS)
+<!-- - 🐤 Twitter: [@gbeiios](https://www.twitter.com/GBeIIoS) -->
 - ⌨️ Discord: GBelloS#2061
+<!-- - 👍 Facebook: [schwarzbold](https://www.facebook.com/schwarzbold/) -->
+
 
 ![Coding city picture](images/coding.jpg)
 > Image by [Mystic Art Design](https://pixabay.com/pt/users/mysticsartdesign-322497/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=702178) from [Pixabay](https://pixabay.com/pt//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=702178)
